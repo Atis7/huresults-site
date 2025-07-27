@@ -1,0 +1,1 @@
+// JavaScript for form handling and animations
